@@ -1,9 +1,8 @@
 # Dashboard de Desmatamento dos Biomas Brasileiros
 
 <p align="center">
-  <img width="900" height="136" alt="banner" src="https://github.com/user-attachments/assets/8b4d7678-ec64-407d-9ad4-7f422a82cdd4" />
+  <img width="900" height="136" alt="banner" src="https://github.com/user-attachments/assets/1e5e5235-c9fb-4e8f-a19d-9bf0e4abe2c5" />
 </p>
-
 
 ## Sobre o Projeto
 
